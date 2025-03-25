@@ -3,3 +3,4 @@
 
 ![image](https://github.com/user-attachments/assets/9b38c6f8-a455-4712-80d8-310e156767e8)
 Далее пользователь увидит данные базы данных, которая создана на open panel субд open server
+![Uploading image.png…]()
